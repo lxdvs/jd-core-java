@@ -9,7 +9,7 @@ linux32: jd-core-java-1.0.jar libjd-intellij.so.linux32
 
 osx64: jd-core-java-1.0.jar libjd-intellij.so.osx64
 
-linux64: jd-core-java-1.0.jar libjd-intellij.so.osx64
+linux64: jd-core-java-1.0.jar libjd-intellij.so.linux64
 
 jd-intellij:
 	hg clone https://bitbucket.org/bric3/jd-intellij
